@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/playground/tip/static/css/main.8abc0834.chunk.css",
-    "main.js": "/playground/tip/static/js/main.11f02e31.chunk.js",
-    "main.js.map": "/playground/tip/static/js/main.11f02e31.chunk.js.map",
-    "runtime-main.js": "/playground/tip/static/js/runtime-main.238b97df.js",
-    "runtime-main.js.map": "/playground/tip/static/js/runtime-main.238b97df.js.map",
-    "static/js/2.3dbf20c0.chunk.js": "/playground/tip/static/js/2.3dbf20c0.chunk.js",
-    "static/js/2.3dbf20c0.chunk.js.map": "/playground/tip/static/js/2.3dbf20c0.chunk.js.map",
-    "index.html": "/playground/tip/index.html",
-    "precache-manifest.5238470b93b5c6dfea0551794cf76a1e.js": "/playground/tip/precache-manifest.5238470b93b5c6dfea0551794cf76a1e.js",
-    "service-worker.js": "/playground/tip/service-worker.js",
-    "static/css/main.8abc0834.chunk.css.map": "/playground/tip/static/css/main.8abc0834.chunk.css.map",
-    "static/js/2.3dbf20c0.chunk.js.LICENSE.txt": "/playground/tip/static/js/2.3dbf20c0.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/playground/tip/static/media/top-bg.178b9dd5.svg"
+    "main.css": "/friendly-tip/static/css/main.3cb0298e.chunk.css",
+    "main.js": "/friendly-tip/static/js/main.e1a3ee5c.chunk.js",
+    "main.js.map": "/friendly-tip/static/js/main.e1a3ee5c.chunk.js.map",
+    "runtime-main.js": "/friendly-tip/static/js/runtime-main.d0694a5f.js",
+    "runtime-main.js.map": "/friendly-tip/static/js/runtime-main.d0694a5f.js.map",
+    "static/js/2.b0290853.chunk.js": "/friendly-tip/static/js/2.b0290853.chunk.js",
+    "static/js/2.b0290853.chunk.js.map": "/friendly-tip/static/js/2.b0290853.chunk.js.map",
+    "index.html": "/friendly-tip/index.html",
+    "precache-manifest.384ab6cc6ad84ca0ed96b8a35e2082f1.js": "/friendly-tip/precache-manifest.384ab6cc6ad84ca0ed96b8a35e2082f1.js",
+    "service-worker.js": "/friendly-tip/service-worker.js",
+    "static/css/main.3cb0298e.chunk.css.map": "/friendly-tip/static/css/main.3cb0298e.chunk.css.map",
+    "static/js/2.b0290853.chunk.js.LICENSE.txt": "/friendly-tip/static/js/2.b0290853.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/friendly-tip/static/media/top-bg.178b9dd5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.238b97df.js",
-    "static/js/2.3dbf20c0.chunk.js",
-    "static/css/main.8abc0834.chunk.css",
-    "static/js/main.11f02e31.chunk.js"
+    "static/js/runtime-main.d0694a5f.js",
+    "static/js/2.b0290853.chunk.js",
+    "static/css/main.3cb0298e.chunk.css",
+    "static/js/main.e1a3ee5c.chunk.js"
   ]
 }
